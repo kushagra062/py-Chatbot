@@ -11,3 +11,5 @@ FuzzyWuzzy - It is a library of Python which is used for string matching. Fuzzy 
 # Code editor:
 
 Jupyter Notebook - Jupyter Notebook is an open-source web application that allows users to create and share interactive documents that combine code, equations, visualizations. 
+
+Visual Studio Code - Visual Studio Code helps you write and work on code for building websites and applications.
