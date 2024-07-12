@@ -6,7 +6,7 @@ In the dynamic landscape of customer service and communication that recognizes t
  
 NLTK - It is free, open-source Python library for natural language processing (NLP). It is used to analyze text data and build NLP applications.
 
-FuzzyWuzzy - It is a library of Python which is used for string matching. Fuzzy string matching is the process of finding strings that match a given pattern.
+FuzzyWuzzy - It is a library of Python which is used for string matching. Fuzzy string matching is the process of finding strings that match a given pattern. It uses Levenshtein Distance to calculate the differences between sequences.
 
 # Code editor:
 
